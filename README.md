@@ -1,4 +1,4 @@
-# Let's Build Your Refinery Optimization Team
+# Refinery Optimization Team
 
 This project demonstrates a prompt chaining workflow in Python by building a refinery optimization team powered by a Large Language Model (LLM).
 
